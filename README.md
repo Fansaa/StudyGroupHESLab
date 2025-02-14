@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Selamat datang di kumpulan proyek Arduino yang dikumpulkan dalam rangkaian study group **Hardware and Embedded System Laboratory**. Proyek-proyek ini adalah hasil eksperimen dan pembelajaran yang dilakukan oleh saya sebagai anggota study group. Setiap proyek dirancang untuk memecahkan masalah tertentu, dari sistem pemantauan suhu, sistem keamanan pintu, sistem lampu otomatis, hingga sistem peringatan gas berbahaya, menggunakan berbagai komponen seperti sensor, LED, buzzer, dan motor servo.
+Repository ini merupakan kumpulan proyek Arduino yang dikumpulkan dalam rangkaian study group **Hardware and Embedded System Laboratory**. Proyek-proyek ini adalah hasil eksperimen dan pembelajaran yang dilakukan oleh saya sebagai anggota study group. Setiap proyek dirancang untuk memecahkan masalah tertentu, dari sistem pemantauan suhu, sistem keamanan pintu, sistem lampu otomatis, hingga sistem peringatan gas berbahaya, menggunakan berbagai komponen seperti sensor, LED, buzzer, dan motor servo.
 
 Tujuan dari proyek-proyek ini adalah untuk memperdalam pemahaman mengenai konsep-konsep dasar dan penerapan praktis dalam dunia perangkat keras dan sistem tertanam (embedded systems) menggunakan Arduino.
 
