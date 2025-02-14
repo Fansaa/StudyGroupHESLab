@@ -1,5 +1,8 @@
 # Sistem Deteksi Suhu dengan Arduino
 
+Link Tinkercad:
+https://www.tinkercad.com/things/7x98dTwOBTx-project-1-study-group-hes-lab?sharecode=undefined
+
 ## Deskripsi
 
 Proyek ini adalah sistem pemantauan suhu sederhana menggunakan papan Arduino Uno, sensor suhu, dan tampilan LCD. Sistem ini membaca data suhu dari sensor dan menampilkannya di LCD. Selain itu, sistem ini menggunakan LED untuk menunjukkan berbagai rentang suhu:
